@@ -483,6 +483,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Submarine
       objectReference: {fileID: 0}
+    - target: {fileID: 2171618885556946550, guid: 3326ef4430f16544fa66d97c1dee6f97, type: 3}
+      propertyPath: mainThrust
+      value: 1000
+      objectReference: {fileID: 0}
     - target: {fileID: 3391469578618549238, guid: 3326ef4430f16544fa66d97c1dee6f97, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -526,6 +530,10 @@ PrefabInstance:
     - target: {fileID: 3391469578618549238, guid: 3326ef4430f16544fa66d97c1dee6f97, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7414657641490938189, guid: 3326ef4430f16544fa66d97c1dee6f97, type: 3}
+      propertyPath: m_Mass
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3326ef4430f16544fa66d97c1dee6f97, type: 3}
